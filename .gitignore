@@ -1,5 +1,6 @@
 # Ignore sensitive files
 connectvars.php
+appvars.php
 # Ignore system files
 .DS_Store
 nascsms.sql
