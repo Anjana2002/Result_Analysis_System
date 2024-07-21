@@ -4,28 +4,35 @@
 
 The Result Analysis System is a powerful, centralized solution designed to revolutionize how academic institutions assess and monitor student progress. By automating the process of result upload and analysis, our system offers a comprehensive toolset for educators and administrators to gain valuable insights into student performance.
 
-### Screenshot
-![](./screenshot/home.png)
-![](./screenshot/index_admin.png)
-![](./screenshot/markupload.png)
-![](./screenshot/markentry.png)
-![](./screenshot/RAS.png)
-![](./screenshot/sem_wise.png)
-![](./screenshot/single_sub.png)
-![](./screenshot/stud_analy.png)
-![](./screenshot/graph.png)
-![](./screenshot/depart_top.png)
-![](./screenshot/advance.png)
-### Key Features
+### Screenshots
 
-- Effortless result upload for departmental teachers
-- Automated generation of multifaceted analyses
-- Identification of top-performing students
-- In-depth single-subject analysis
-- Individual and semester-wise performance evaluation
-- Departmental excellence assessment
-- Advanced search functionality for result retrieval
-- Access to historical academic data
+<table>
+  <tr>
+    <td><img src="./screenshot/home.png" width="400"/></td>
+    <td><img src="./screenshot/index_admin.png" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="./screenshot/markupload.png" width="400"/></td>
+    <td><img src="./screenshot/markentry.png" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="./screenshot/RAS.png" width="400"/></td>
+    <td><img src="./screenshot/sem_wise.png" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="./screenshot/single_sub.png" width="400"/></td>
+    <td><img src="./screenshot/stud_analy.png" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="./screenshot/graph.png" width="400"/></td>
+    <td><img src="./screenshot/depart_top.png" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="./screenshot/advance.png" width="400"/></td>
+    <td></td>
+  </tr>
+</table>
+
 
 
 ### Tools
@@ -53,16 +60,17 @@ This project is designed to run locally using Apache web server and the computer
 ```bash
     http://localhost/result
 ```
-### Benefits
+### Key Features
 
-- Time-saving automation
-- Reduced error rates compared to manual processes
-- Data-driven decision-making capabilities
-- Enhanced student success monitoring
-- Streamlined assessment processes
-- Comprehensive view of academic performance trends
+- Effortless result upload for departmental teachers
+- Automated generation of multifaceted analyses
+- Identification of top-performing students
+- In-depth single-subject analysis
+- Individual and semester-wise performance evaluation
+- Departmental excellence assessment
+- Advanced search functionality for result retrieval
+- Access to historical academic data
 
-This README provides an overview of the Result Analysis System, its installation process, usage instructions, and other essential information for users and contributors.
 
 
 
